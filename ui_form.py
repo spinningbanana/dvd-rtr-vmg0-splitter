@@ -164,6 +164,13 @@ class Ui_Splitter(object):
         self.hint_skip.setAlignment(Qt.AlignmentFlag.AlignRight|Qt.AlignmentFlag.AlignTrailing|Qt.AlignmentFlag.AlignVCenter)
         self.hint_skip.setMargin(0)
         self.hint_skip.setIndent(2)
+        self.copyright = QLabel(Splitter)
+        self.copyright.setObjectName(u"copyright")
+        self.copyright.setGeometry(QRect(50, 500, 441, 20))
+        self.copyright.setFont(font)
+        self.copyright.setAlignment(Qt.AlignmentFlag.AlignRight|Qt.AlignmentFlag.AlignTop|Qt.AlignmentFlag.AlignTrailing)
+        self.copyright.setMargin(0)
+        self.copyright.setIndent(0)
 
         self.retranslateUi(Splitter)
         self.button_ifo.clicked.connect(Splitter.choose_ifo)
@@ -211,5 +218,6 @@ class Ui_Splitter(object):
         self.hint_skip.setWhatsThis("")
 #endif // QT_CONFIG(whatsthis)
         self.hint_skip.setText(QCoreApplication.translate("Splitter", u"(?)", None))
+        self.copyright.setText(QCoreApplication.translate("Splitter", u"\u00a9 2025 spinningbanana", None))
     # retranslateUi
 

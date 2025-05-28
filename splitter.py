@@ -1,4 +1,23 @@
 # This Python file uses the following encoding: utf-8
+
+"""
+DVD_RTR_VMG0 .VRO Splitter -- splits the .VRO file from DVDRAM camcorders into multiple .mpg files
+Copyright (C) 2025 spinningbanana
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see https://www.gnu.org/licenses/.
+"""
+
 import os
 import subprocess
 import sys
@@ -420,7 +439,7 @@ class Splitter(QWidget):
 
         if self.vro:
             selected_vro.setText("Selected: " + self.limit_characters(os.path.basename(self.vro)))
-            selected_ifo.setToolTip(self.vro)
+            selected_vro.setToolTip(self.vro)
         else:
             selected_vro.setText("Selected: NONE")
 
