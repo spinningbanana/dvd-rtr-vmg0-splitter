@@ -41,3 +41,6 @@ what to do with them
 I later discovered that 0x6540 is not always used as a marker. I have also seen 0x32A0 in its place
 
 <img src="ifo5.png" alt="Title information" width="400">
+
+<br><br>
+<sub>If you think this is cool, [donations](https://ko-fi.com/spinningbanana) are appreciated!</sub>
