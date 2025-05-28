@@ -1,0 +1,1804 @@
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 31
+
+[Titles and their clip durations]
+5/ 4/2025:
+  Clip 1: 14.302 seconds, 428.6313686313686 frames
+  Clip 2: 21.309 seconds, 638.6313686313687 frames
+  Clip 3: 13.8015 seconds, 413.6313686313686 frames
+  Clip 4: 17.305 seconds, 518.6313686313687 frames
+  Clip 5: 45.333 seconds, 1358.6313686313686 frames
+  Clip 6: 9.297 seconds, 278.6313686313686 frames
+  Clip 7: 42.8305 seconds, 1283.6313686313686 frames
+  Clip 8: 10.7985 seconds, 323.6313686313686 frames
+  Clip 9: 35.323 seconds, 1058.6313686313686 frames
+  Clip 10: 28.316 seconds, 848.6313686313687 frames
+  Clip 11: 7.295 seconds, 218.63136863136864 frames
+  Clip 12: 20.308 seconds, 608.6313686313687 frames
+  Clip 13: 47.8355 seconds, 1433.6313686313686 frames
+  Clip 14: 63.8515 seconds, 1913.6313686313686 frames
+  Clip 15: 7.7955 seconds, 233.63136863136864 frames
+  Clip 16: 22.31 seconds, 668.6313686313687 frames
+  Clip 17: 68.356 seconds, 2048.631368631369 frames
+  Clip 18: 61.8495 seconds, 1853.6313686313686 frames
+  Clip 19: 39.327 seconds, 1178.6313686313686 frames
+  Clip 20: 38.326 seconds, 1148.6313686313686 frames
+  Clip 21: 62.35 seconds, 1868.6313686313686 frames
+  Clip 22: 68.8565 seconds, 2063.631368631369 frames
+  Clip 23: 85.8735 seconds, 2573.631368631369 frames
+  Clip 24: 52.8405 seconds, 1583.6313686313686 frames
+  Clip 25: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 26: 25.8135 seconds, 773.6313686313687 frames
+  Clip 27: 35.323 seconds, 1058.6313686313686 frames
+  Clip 28: 26.8145 seconds, 803.6313686313687 frames
+  Clip 29: 23.8115 seconds, 713.6313686313687 frames
+  Clip 30: 26.314 seconds, 788.6313686313687 frames
+  Clip 31: 15.303 seconds, 458.6313686313686 frames
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+[CRITICAL] A problem occured while accessing the chosen directory!
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
+.IFO type: DVD_RTR_VMG0
+Number of clips: 48
+
+[Titles and their clip durations]
+1/ 1/2003:
+  Clip 1: 141.429 seconds, 4238.631368631369 frames
+  Clip 2: 73.8615 seconds, 2213.631368631369 frames
+  Clip 3: 29.8175 seconds, 893.6313686313687 frames
+  Clip 4: 45.8335 seconds, 1373.6313686313686 frames
+4/30/2025:
+  Clip 1: 57.8455 seconds, 1733.6313686313686 frames
+5/ 2/2025:
+  Clip 1: 30.318 seconds, 908.6313686313687 frames
+5/ 4/2025:
+  Clip 1: 48.8365 seconds, 1463.6313686313686 frames
+  Clip 2: 11.299 seconds, 338.6313686313686 frames
+  Clip 3: 46.8345 seconds, 1403.6313686313686 frames
+  Clip 4: 20.8085 seconds, 623.6313686313687 frames
+  Clip 5: 35.323 seconds, 1058.6313686313686 frames
+  Clip 6: 32.32 seconds, 968.6313686313687 frames
+  Clip 7: 3.291 seconds, 98.63136863136863 frames
+  Clip 8: 11.7995 seconds, 353.6313686313686 frames
+  Clip 9: 19.8075 seconds, 593.6313686313687 frames
+  Clip 10: 24.312 seconds, 728.6313686313687 frames
+  Clip 11: 9.297 seconds, 278.6313686313686 frames
+  Clip 12: 24.8125 seconds, 743.6313686313687 frames
+  Clip 13: 18.306 seconds, 548.6313686313687 frames
+  Clip 14: 11.299 seconds, 338.6313686313686 frames
+  Clip 15: 11.7995 seconds, 353.6313686313686 frames
+  Clip 16: 33.321 seconds, 998.6313686313687 frames
+  Clip 17: 32.8205 seconds, 983.6313686313687 frames
+  Clip 18: 30.8185 seconds, 923.6313686313687 frames
+  Clip 19: 20.8085 seconds, 623.6313686313687 frames
+  Clip 20: 86.374 seconds, 2588.631368631369 frames
+  Clip 21: 15.303 seconds, 458.6313686313686 frames
+  Clip 22: 11.7995 seconds, 353.6313686313686 frames
+  Clip 23: 56.8445 seconds, 1703.6313686313686 frames
+  Clip 24: 14.302 seconds, 428.6313686313686 frames
+  Clip 25: 38.326 seconds, 1148.6313686313686 frames
+  Clip 26: 24.8125 seconds, 743.6313686313687 frames
+  Clip 27: 28.316 seconds, 848.6313686313687 frames
+  Clip 28: 35.323 seconds, 1058.6313686313686 frames
+  Clip 29: 36.324 seconds, 1088.6313686313686 frames
+  Clip 30: 27.8155 seconds, 833.6313686313687 frames
+  Clip 31: 69.357 seconds, 2078.631368631369 frames
+  Clip 32: 44.8325 seconds, 1343.6313686313686 frames
+  Clip 33: 75.363 seconds, 2258.631368631369 frames
+  Clip 34: 45.8335 seconds, 1373.6313686313686 frames
+  Clip 35: 32.32 seconds, 968.6313686313687 frames
+  Clip 36: 26.8145 seconds, 803.6313686313687 frames
+  Clip 37: 31.8195 seconds, 953.6313686313687 frames
+  Clip 38: 37.8255 seconds, 1133.6313686313686 frames
+  Clip 39: 48.336 seconds, 1448.6313686313686 frames
+  Clip 40: 30.318 seconds, 908.6313686313687 frames
+  Clip 41: 8.7965 seconds, 263.6313686313686 frames
+  Clip 42: 34.322 seconds, 1028.6313686313686 frames
+
