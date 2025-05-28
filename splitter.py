@@ -93,7 +93,7 @@ class Splitter(QWidget):
         f.seek(int.from_bytes(info_head, "big") + self.CLIPS_OFFSET)
 
         odd = False
-        while f.tell() <= int.from_bytes(info_end, "big"):
+        while f.tell() < int.from_bytes(info_end, "big") and f.tell() < self.ifo_bin_size:
             next = f.read(2).hex()
             if odd and next != "0000":
                 f.seek(self.MARKER_OFFSET, 1)
@@ -153,7 +153,7 @@ class Splitter(QWidget):
         self.seek_to_marker(f)
 
         title_hashes = []
-        while f.tell() <= int.from_bytes(info_end, "big"):
+        while f.tell() < int.from_bytes(info_end, "big") and f.tell() < self.ifo_bin_size:
             marker = f.tell()
 
             f.seek(self.CLIPS_TITLE_OFFSET, 1)
@@ -179,7 +179,7 @@ class Splitter(QWidget):
 
         self.seek_to_marker(f)
 
-        while f.tell() <= int.from_bytes(info_end, "big"):
+        while f.tell() < int.from_bytes(info_end, "big") and f.tell() < self.ifo_bin_size:
             marker = f.tell()
 
             f.seek(marker + self.CLIPS_DURATION_OFFSET)
