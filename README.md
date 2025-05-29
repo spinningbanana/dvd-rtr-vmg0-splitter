@@ -32,15 +32,16 @@ directly from their binary, hence the ffmpeg cop-out.
 <img src="ifo1.png" alt="The start of the .IFO binary" width="400">
 <img src="ifo2.png" alt="The start of the video info section of the .IFO binary" width="400">
 
-For the headers, my hypothesis is that they are used to navigate through the .VRO file's binary, but I have no clue
+For the headers, I hypothesize that they are used to navigate through the .VRO file's binary, but I have no clue
 what to do with them
 
 <img src="ifo3.png" alt="Useful information for each clip" width="400">
 <img src="ifo4.png" alt="Possible ui navigation data or something??" width="400">
 
-I later discovered that 0x6540 is not always used as a marker. I have also seen 0x32A0 in its place
+I later discovered that 0x6540 is not always used as a marker. I have also seen 0x32A0 in its place. However, if the
+.IFO file has a specific marker; all markers in the file will be the same.
 
 <img src="ifo5.png" alt="Title information" width="400">
 
-<br><br>
+<br>
 <sub>If you think this is cool, [donations](https://ko-fi.com/spinningbanana) are appreciated!</sub>
