@@ -44,4 +44,5 @@ I later discovered that 0x6540 is not always used as a marker. I have also seen 
 <img src="ifo5.png" alt="Title information" width="400">
 
 <br>
+
 <sub>If you think this is cool, [donations](https://ko-fi.com/spinningbanana) are appreciated!</sub>
