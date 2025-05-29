@@ -210,6 +210,8 @@ class Splitter(QWidget):
         if not self.ifo:
             return
 
+        checkbox_file_enforce = self.findChild(QCheckBox, "checkbox_file_enforce")
+
         output = ""
         try:
             with open(self.ifo, "rb") as f:
@@ -217,8 +219,13 @@ class Splitter(QWidget):
 
                 output += f".IFO type: {type}\n"
 
-                if type != "DVD_RTR_VMG0":
-                    output += '[ALERT] The .IFO type is different from the expected "DVD_RTR_VMG0"! Problems may occur!\n'
+                if type != "DVD_RTR_VMG0" and checkbox_file_enforce.isChecked():
+                    self.update_output(f'[CRITICAL] This .IFO is of type "{type}", not "DVD_RTR_VMG0"! Task aborted.', append=True)
+                    self.ifo = None
+                    self.update_selected()
+                    return
+                else:
+                    output += f'[ALERT] This .IFO is of type "{type}", not "DVD_RTR_VMG0"!'
 
                 f.seek(0x00000100)
                 info_head = f.read(4)
@@ -445,6 +452,8 @@ class Splitter(QWidget):
 
         if self.ifo and self.vro:
             button_split.setEnabled(True)
+        else:
+            button_split.setEnabled(False)
 
     # "select ifo" button in the ui calls this function
     def choose_ifo(self):
