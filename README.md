@@ -14,6 +14,9 @@ it from happening.
 I'm not sure how many variations of .VRO files there are, but this program for those with accompanying .IFO files that are 
 of type "DVD_RTR_VMG0". You can tell what type an .IFO is by reading the first 12 bytes of its binary.
 
+Also check out pixeldb's [dvd-vr](https://github.com/pixelb/dvd-vr/tree/master). I have no idea how it works and I have not tried it,
+but it looks like it would split .VRO files cleaner
+
 # Build it yourself
 
 The command I use to build is the following:
