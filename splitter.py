@@ -219,13 +219,15 @@ class Splitter(QWidget):
 
                 output += f".IFO type: {type}\n"
 
-                if type != "DVD_RTR_VMG0" and checkbox_file_enforce.isChecked():
-                    self.update_output(f'[CRITICAL] This .IFO is of type "{type}", not "DVD_RTR_VMG0"! Task aborted.', append=True)
-                    self.ifo = None
-                    self.update_selected()
-                    return
-                else:
-                    output += f'[ALERT] This .IFO is of type "{type}", not "DVD_RTR_VMG0"!'
+                # filetype enforcement
+                if type != "DVD_RTR_VMG0":
+                    if checkbox_file_enforce.isChecked():
+                        self.update_output(f'[CRITICAL] This .IFO is of type "{type}", not "DVD_RTR_VMG0"! Task aborted.', append=True)
+                        self.ifo = None
+                        self.update_selected()
+                        return
+                    else:
+                        output += f'[ALERT] This .IFO is of type "{type}", not "DVD_RTR_VMG0"!'
 
                 f.seek(0x00000100)
                 info_head = f.read(4)
@@ -395,7 +397,7 @@ class Splitter(QWidget):
 
                     duration_so_far = self.split_clips(self.ifo_titles[t], dest, duration_so_far)
             else:
-                duration_so_far = self.split_clips(self.ifo_titles[t], "", 0)
+                duration_so_far = self.split_clips(self.ifo_durations, "", 0)
 
             self.update_output(f"[{datetime.now()}] Finished!", append=True, logging=True)
         except OSError:

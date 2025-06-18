@@ -313,7 +313,7 @@
     <double>0.000100000000000</double>
    </property>
    <property name="value">
-    <double>-0.299900000000000</double>
+    <double>0.000000000000000</double>
    </property>
   </widget>
   <widget class="QLabel" name="label_offset">
@@ -382,7 +382,7 @@
     </font>
    </property>
    <property name="toolTip">
-    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;How many seconds to offset splitting by. &lt;/p&gt;&lt;p&gt;Useful as ffmpeg trimming isn't perfect so there may be a few frames of the next clip at the end of each clip.&lt;/p&gt;&lt;p&gt;(e.g. offset of -0.2937: two clips 12s and 15s --&amp;gt; 11.7063s and 14.7063s)&lt;/p&gt;&lt;p&gt;The default value of -0.2999 seconds is what I found to work well in my testing&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;How many seconds to offset splitting by. &lt;/p&gt;&lt;p&gt;May be useful as ffmpeg trimming isn't perfect so there may be a few frames of the next clip at the end of each clip. Tweaking this will help mitigate it, but still may not be perfect...&lt;/p&gt;&lt;p&gt;(e.g. offset of -0.2937: two clips 12s and 15s --&amp;gt; 11.7063s and 14.7063s)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
    <property name="toolTipDuration">
     <number>-1</number>
@@ -543,7 +543,7 @@
     </font>
    </property>
    <property name="text">
-    <string>v1.0.1</string>
+    <string>v1.0.2</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTop|Qt::AlignmentFlag::AlignTrailing</set>

@@ -8,7 +8,7 @@ This program splits .VRO files into their individual clips by reading the binary
 extracting useful data, then using ffmpeg to split the .VRO into .mpg files without re-encoding.
 
 A downside with my approach is that a few frames from the next clip may be included in each clip.
-There is however an offset variable that you can adjust to mitigate this and it works pretty well at stopping
+There is however an offset variable that you can adjust to mitigate this and it works relatively well at stopping
 it from happening.
 
 I'm not sure how many variations of .VRO files there are, but this program for those with accompanying .IFO files that are 
