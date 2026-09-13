@@ -19,7 +19,9 @@ but it looks like it would split .VRO files cleaner
 
 # Build it yourself
 
-The command I use to build is the following:
+You can download this in the Releases tab.
+
+If you want to build it yourself, the command I use to build is the following:
 
 `pyinstaller --onefile --noconsole --icon=icon.ico --add-data "icon.ico:." --add-data "logo.png:." splitter.py`
 
@@ -48,4 +50,4 @@ I later discovered that 0x6540 is not always used as a marker. I have also seen 
 
 <br>
 
-<sub>If you think this is cool, [donations](https://ko-fi.com/spinningbanana) are appreciated!</sub>
+<sub>[Kofi](https://ko-fi.com/spinningbanana)</sub>
