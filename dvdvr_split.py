@@ -58,7 +58,7 @@ from typing import Callable, List, Optional
 
 SECTOR = 2048
 APP_NAME = "DVD-VR Splitter"
-APP_VERSION = "2.1.2"
+APP_VERSION = "2.1.3"
 
 # Windows 控制台默认 GBK；被重定向（管道/文件）时改用 UTF-8，避免乱码
 if sys.platform == "win32":
@@ -205,6 +205,8 @@ STR = {
         "err.vro_small": "VRO 太小（{n} 字节）",
         "err.vro_short": "VRO 比 IFO 描述的短：{which}\n需要 {need} 字节，实际 {have} 字节。\n（是否把别的盘的 IFO 和 VRO 配对了？）",
         "err.dir": "打不开目录：{e}",
+        "msg.same_drive": "检测到输出目录和输入文件在同一个盘（{drive}）。\n光驱 / 光盘通常是只读的，写入会失败。\n\n确定仍要继续吗？（建议改选本地硬盘上的目录，例如“视频”文件夹）",
+        "msg.same_drive_pick": "这个目录在 {drive} 上，和输入文件是同一个盘（通常是光驱，不可写）。\n请换成本地硬盘上的目录。",
         "err.read_failed": "读取 VRO 失败：偏移 {off} 字节（已写入 {got}/{want} 字节）\n{e}\n\n常见原因：\n  • 摄像机/录像机断电或电池耗尽（USB 连接会立刻中断）\n  • USB 数据线松动、接触不良或被拔出\n  • 光盘有划痕/脏污，或虚拟光驱掉线、镜像文件不完整\n\n建议：给设备接上电源适配器、重新插好数据线后重试；或先把 VR_MOVIE.VRO 复制到本地硬盘再处理；确实读不出的坏块可勾选「读取错误时跳过」。",
         "log.skip_block": "    ! 读取失败，已跳过 {n} 字节（偏移 {off}）",
         "chk.skip_errors": "读取错误时跳过（光盘有划痕时用）",
@@ -292,6 +294,8 @@ STR = {
         "err.vro_small": "VRO が小さすぎます（{n} バイト）",
         "err.vro_short": "VRO が IFO の記述より短いです: {which}\n必要 {need} バイト、実際 {have} バイト。\n（別のディスクの IFO と VRO を組み合わせていませんか？）",
         "err.dir": "フォルダーを開けません: {e}",
+        "msg.same_drive": "出力先と入力ファイルが同じドライブ（{drive}）です。\n光学ドライブ / ディスクは通常読み取り専用のため、書き込みに失敗します。\n\nこのまま続行しますか？（ローカルディスク上のフォルダーを推奨）",
+        "msg.same_drive_pick": "このフォルダーは {drive} 上にあり、入力ファイルと同じドライブです（通常は光学ドライブで書き込み不可）。\nローカルディスク上のフォルダーを選んでください。",
         "err.read_failed": "VRO の読み込みに失敗しました: オフセット {off} バイト（{got}/{want} バイト書き込み済み）\n{e}\n\nよくある原因:\n  • カメラ／レコーダーの電源が切れた、バッテリー切れ（USB 接続が瞬断します）\n  • USB ケーブルの接触不良・抜け\n  • ディスクの傷・汚れ、仮想ドライブの切断、イメージの破損\n\n対処: AC アダプターで給電し、ケーブルを接続し直してから再試行してください。VR_MOVIE.VRO をローカルディスクにコピーしてから処理するのも有効です。読めないブロックは「読み取りエラーをスキップ」で続行できます。",
         "log.skip_block": "    ! 読み取り失敗、{n} バイトをスキップ（オフセット {off}）",
         "chk.skip_errors": "読み取りエラーをスキップ（傷んだディスク向け）",
@@ -379,6 +383,8 @@ STR = {
         "err.vro_small": "VRO too small ({n} bytes)",
         "err.vro_short": "VRO is shorter than the IFO describes: {which}\nneeds {need} bytes, file has {have}.\n(Are you mixing IFO and VRO from different discs?)",
         "err.dir": "Cannot open folder: {e}",
+        "msg.same_drive": "The output folder is on the same drive as the input file ({drive}).\nOptical drives/discs are usually read-only, so writing will fail.\n\nContinue anyway? (A folder on a local disk is recommended.)",
+        "msg.same_drive_pick": "That folder is on {drive}, the same drive as the input file (usually an optical drive, not writable).\nPlease choose a folder on a local disk.",
         "err.read_failed": "Failed to read VRO at offset {off} bytes (wrote {got}/{want})\n{e}\n\nTypical causes:\n  • the camcorder/recorder lost power or its battery ran out (the USB link drops instantly)\n  • loose, unplugged or faulty USB cable\n  • scratched/dirty disc, virtual drive disconnected, incomplete image file\n\nSuggestion: power the device from AC, reconnect the cable and retry; or copy VR_MOVIE.VRO to a local disk first. Blocks that still fail can be skipped with \"skip read errors\".",
         "log.skip_block": "    ! read error, skipped {n} bytes (offset {off})",
         "chk.skip_errors": "Skip read errors (for scratched discs)",
@@ -756,6 +762,42 @@ def which_ffmpeg() -> Optional[str]:
         if os.path.isfile(cand):
             return cand
     return None
+
+
+def videos_dir() -> str:
+    """Windows 的“视频”文件夹（尊重 OneDrive 重定向）；其它平台退回 ~/Videos"""
+    if sys.platform == "win32":
+        try:
+            import ctypes
+            from ctypes import wintypes
+
+            class GUID(ctypes.Structure):
+                _fields_ = [("Data1", wintypes.DWORD), ("Data2", wintypes.WORD),
+                            ("Data3", wintypes.WORD), ("Data4", ctypes.c_ubyte * 8)]
+
+            # FOLDERID_Videos {18989B1D-99B5-455B-841C-AB7C74E4DDFC}
+            guid = GUID(0x18989B1D, 0x99B5, 0x455B,
+                        (ctypes.c_ubyte * 8)(0x84, 0x1C, 0xAB, 0x7C, 0x74, 0xE4, 0xDD, 0xFC))
+            buf = ctypes.c_wchar_p()
+            hr = ctypes.windll.shell32.SHGetKnownFolderPath(
+                ctypes.byref(guid), 0, None, ctypes.byref(buf))
+            if hr == 0 and buf.value:
+                path = buf.value
+                ctypes.windll.ole32.CoTaskMemFree(buf)
+                return path
+        except Exception:
+            pass
+    return os.path.join(os.path.expanduser("~"), "Videos")
+
+
+def same_drive(a: str, b: str) -> bool:
+    """判断两个路径是否在同一个盘符（或同一个 UNC 共享）"""
+    try:
+        da = os.path.splitdrive(os.path.abspath(a))[0].lower()
+        db = os.path.splitdrive(os.path.abspath(b))[0].lower()
+        return bool(da) and da == db
+    except Exception:
+        return False
 
 
 def dir_writable(path: str) -> bool:
@@ -1144,6 +1186,9 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
             d = QFileDialog.getExistingDirectory(self, t("dlg.choose_out"))
             if d:
                 self.ed_out.setText(d)
+                if self.info and same_drive(d, self.info.vro_path):
+                    drive = os.path.splitdrive(os.path.abspath(d))[0]
+                    QMessageBox.warning(self, APP_NAME, t("msg.same_drive_pick", drive=drive))
 
         def check_all(self, on):
             for r in range(self.table.rowCount()):
@@ -1201,11 +1246,14 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
             self.lbl_info.setText(self._info_text())
             self._fill_table()
             if not self.ed_out.text().strip():
-                base = os.path.dirname(info.vro_path)
-                # os.access() 对光盘/虚拟光驱不可靠，做一次真实写入测试
-                if not dir_writable(base):
-                    base = os.path.join(os.path.expanduser("~"), "Videos")
-                self.ed_out.setText(os.path.join(base, "DVD_OUT"))
+                # 默认输出到 Windows 的“视频”文件夹（而不是光盘目录）
+                out = videos_dir()
+                if not os.path.isdir(out):
+                    try:
+                        os.makedirs(out, exist_ok=True)
+                    except OSError:
+                        out = os.path.expanduser("~")
+                self.ed_out.setText(out)
             self.logln(t("log.loaded", n=len(info.programs)))
             if any(p.rec_time is None for p in info.programs):
                 self.logln(t("log.auto_named"))
@@ -1220,6 +1268,13 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
             if not out:
                 QMessageBox.warning(self, APP_NAME, t("msg.need_out"))
                 return
+            if self.info and same_drive(out, self.info.vro_path):
+                drive = os.path.splitdrive(os.path.abspath(out))[0]
+                ret = QMessageBox.question(
+                    self, APP_NAME, t("msg.same_drive", drive=drive),
+                    QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
+                if ret != QMessageBox.Yes:
+                    return
             try:
                 ensure_output_dir(out)
             except DVDVRError as e:
