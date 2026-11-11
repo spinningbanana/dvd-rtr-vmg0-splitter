@@ -58,7 +58,7 @@ from typing import Callable, List, Optional
 
 SECTOR = 2048
 APP_NAME = "DVD-VR Splitter"
-APP_VERSION = "2.1.3"
+APP_VERSION = "2.1.4"
 
 # Windows 控制台默认 GBK；被重定向（管道/文件）时改用 UTF-8，避免乱码
 if sys.platform == "win32":
@@ -205,6 +205,11 @@ STR = {
         "err.vro_small": "VRO 太小（{n} 字节）",
         "err.vro_short": "VRO 比 IFO 描述的短：{which}\n需要 {need} 字节，实际 {have} 字节。\n（是否把别的盘的 IFO 和 VRO 配对了？）",
         "err.dir": "打不开目录：{e}",
+        "btn.about": "关于",
+        "about.title": "关于",
+        "about.upstream": "上游项目（原版）",
+        "about.mine": "本版本（修复 + 新增功能）",
+        "about.footer": "许可 GPL-3.0　·　实测设备：日立 Hitachi DZ-GX20（DVD-RAM / VR 模式）",
         "msg.same_drive": "检测到输出目录和输入文件在同一个盘（{drive}）。\n光驱 / 光盘通常是只读的，写入会失败。\n\n确定仍要继续吗？（建议改选本地硬盘上的目录，例如“视频”文件夹）",
         "msg.same_drive_pick": "这个目录在 {drive} 上，和输入文件是同一个盘（通常是光驱，不可写）。\n请换成本地硬盘上的目录。",
         "err.read_failed": "读取 VRO 失败：偏移 {off} 字节（已写入 {got}/{want} 字节）\n{e}\n\n常见原因：\n  • 摄像机/录像机断电或电池耗尽（USB 连接会立刻中断）\n  • USB 数据线松动、接触不良或被拔出\n  • 光盘有划痕/脏污，或虚拟光驱掉线、镜像文件不完整\n\n建议：给设备接上电源适配器、重新插好数据线后重试；或先把 VR_MOVIE.VRO 复制到本地硬盘再处理；确实读不出的坏块可勾选「读取错误时跳过」。",
@@ -294,6 +299,11 @@ STR = {
         "err.vro_small": "VRO が小さすぎます（{n} バイト）",
         "err.vro_short": "VRO が IFO の記述より短いです: {which}\n必要 {need} バイト、実際 {have} バイト。\n（別のディスクの IFO と VRO を組み合わせていませんか？）",
         "err.dir": "フォルダーを開けません: {e}",
+        "btn.about": "情報",
+        "about.title": "情報",
+        "about.upstream": "上流プロジェクト（オリジナル版）",
+        "about.mine": "このバージョン（修正＋機能追加）",
+        "about.footer": "ライセンス GPL-3.0　·　動作確認：日立 Hitachi DZ-GX20（DVD-RAM / VR モード）",
         "msg.same_drive": "出力先と入力ファイルが同じドライブ（{drive}）です。\n光学ドライブ / ディスクは通常読み取り専用のため、書き込みに失敗します。\n\nこのまま続行しますか？（ローカルディスク上のフォルダーを推奨）",
         "msg.same_drive_pick": "このフォルダーは {drive} 上にあり、入力ファイルと同じドライブです（通常は光学ドライブで書き込み不可）。\nローカルディスク上のフォルダーを選んでください。",
         "err.read_failed": "VRO の読み込みに失敗しました: オフセット {off} バイト（{got}/{want} バイト書き込み済み）\n{e}\n\nよくある原因:\n  • カメラ／レコーダーの電源が切れた、バッテリー切れ（USB 接続が瞬断します）\n  • USB ケーブルの接触不良・抜け\n  • ディスクの傷・汚れ、仮想ドライブの切断、イメージの破損\n\n対処: AC アダプターで給電し、ケーブルを接続し直してから再試行してください。VR_MOVIE.VRO をローカルディスクにコピーしてから処理するのも有効です。読めないブロックは「読み取りエラーをスキップ」で続行できます。",
@@ -383,6 +393,11 @@ STR = {
         "err.vro_small": "VRO too small ({n} bytes)",
         "err.vro_short": "VRO is shorter than the IFO describes: {which}\nneeds {need} bytes, file has {have}.\n(Are you mixing IFO and VRO from different discs?)",
         "err.dir": "Cannot open folder: {e}",
+        "btn.about": "About",
+        "about.title": "About",
+        "about.upstream": "Upstream project (original)",
+        "about.mine": "This version (fixes + features)",
+        "about.footer": "License GPL-3.0    ·    Tested with Hitachi DZ-GX20 (DVD-RAM, VR mode)",
         "msg.same_drive": "The output folder is on the same drive as the input file ({drive}).\nOptical drives/discs are usually read-only, so writing will fail.\n\nContinue anyway? (A folder on a local disk is recommended.)",
         "msg.same_drive_pick": "That folder is on {drive}, the same drive as the input file (usually an optical drive, not writable).\nPlease choose a folder on a local disk.",
         "err.read_failed": "Failed to read VRO at offset {off} bytes (wrote {got}/{want})\n{e}\n\nTypical causes:\n  • the camcorder/recorder lost power or its battery ran out (the USB link drops instantly)\n  • loose, unplugged or faulty USB cable\n  • scratched/dirty disc, virtual drive disconnected, incomplete image file\n\nSuggestion: power the device from AC, reconnect the cable and retry; or copy VR_MOVIE.VRO to a local disk first. Blocks that still fail can be skipped with \"skip read errors\".",
@@ -764,6 +779,12 @@ def which_ffmpeg() -> Optional[str]:
     return None
 
 
+def resource_path(rel: str) -> str:
+    """PyInstaller onefile 下资源在 _MEIPASS；源码运行时在脚本目录"""
+    base = getattr(sys, "_MEIPASS", os.path.dirname(os.path.abspath(__file__)))
+    return os.path.join(base, rel)
+
+
 def videos_dir() -> str:
     """Windows 的“视频”文件夹（尊重 OneDrive 重定向）；其它平台退回 ~/Videos"""
     if sys.platform == "win32":
@@ -894,6 +915,7 @@ def build_cli() -> argparse.ArgumentParser:
     ap.add_argument("--ffmpeg", help="path to ffmpeg.exe")
     ap.add_argument("--lang", choices=LANGS, help="UI language: zh / ja / en")
     ap.add_argument("--gui", action="store_true", help="force GUI")
+    ap.add_argument("--about", action="store_true", help="show the About dialog")
     return ap
 
 
@@ -919,18 +941,19 @@ def main(argv=None) -> int:
             return 2
         except Cancelled:
             return 130
-    return run_gui(args.ifo or "", args.vro or "")
+    return run_gui(args.ifo or "", args.vro or "", args.about)
 
 
 # --------------------------------------------------------------------------- GUI
-def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
+def run_gui(prefill_ifo: str = "", prefill_vro: str = "", show_about: bool = False) -> int:
     try:
         from PySide6.QtCore import Qt, QThread, Signal
-        from PySide6.QtGui import QIcon
+        from PySide6.QtGui import QColor, QIcon, QPainter, QPainterPath, QPixmap
         from PySide6.QtWidgets import (
-            QApplication, QCheckBox, QComboBox, QFileDialog, QGroupBox, QHBoxLayout,
-            QHeaderView, QLabel, QLineEdit, QMessageBox, QProgressBar, QPushButton,
-            QTableWidget, QTableWidgetItem, QTextEdit, QVBoxLayout, QWidget)
+            QApplication, QCheckBox, QComboBox, QDialog, QDialogButtonBox, QFileDialog,
+            QGroupBox, QHBoxLayout, QHeaderView, QLabel, QLineEdit, QMessageBox,
+            QProgressBar, QPushButton, QTableWidget, QTableWidgetItem, QTextEdit,
+            QVBoxLayout, QWidget)
     except ImportError:
         print("PySide6 is required for the GUI / 图形界面需要 PySide6:\n"
               "  pip install PySide6\n"
@@ -999,14 +1022,13 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
                 self.done.emit(False, t("err.unexpected", e=traceback.format_exc()))
 
     class Window(QWidget):
-        def __init__(self, prefill_ifo: str = "", prefill_vro: str = ""):
+        def __init__(self, prefill_ifo: str = "", prefill_vro: str = "", show_about: bool = False):
             super().__init__()
             self.setMinimumSize(920, 660)
             self.info: Optional[DiscInfo] = None
             self.worker: Optional[Worker] = None
             self._build()
-            here = os.path.dirname(os.path.abspath(__file__))
-            ico = os.path.join(here, "icon.ico")
+            ico = resource_path("icon.ico")
             if os.path.isfile(ico):
                 self.setWindowIcon(QIcon(ico))
             self.retranslate()
@@ -1017,6 +1039,9 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
             if prefill_ifo and prefill_vro:
                 from PySide6.QtCore import QTimer
                 QTimer.singleShot(0, self.load_disc)
+            if show_about:
+                from PySide6.QtCore import QTimer
+                QTimer.singleShot(0, self.show_about)
 
         # ---- 构建界面（不设文字，文字统一在 retranslate 里设）
         def _build(self):
@@ -1039,6 +1064,9 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
             top.addStretch(1)
             top.addWidget(self.lbl_lang)
             top.addWidget(self.cmb_lang)
+            self.btn_about = QPushButton()
+            self.btn_about.clicked.connect(self.show_about)
+            top.addWidget(self.btn_about)
             lay.addLayout(top)
 
             self.gb_choose = QGroupBox()
@@ -1137,6 +1165,7 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
             self.setWindowTitle("%s  v%s" % (t("app.name"), APP_VERSION))
             self.lbl_title.setText(t("app.name"))
             self.lbl_lang.setText(t("lang.label"))
+            self.btn_about.setText(t("btn.about"))
             self.gb_choose.setTitle(t("group.choose"))
             self.btn_dir.setText(t("btn.choose_dir"))
             self.ed_folder.setPlaceholderText(t("placeholder.folder"))
@@ -1169,6 +1198,79 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
                      n=len(i.programs), dur=fmt_ptm(i.total_duration),
                      size=fmt_bytes(i.total_bytes),
                      cprm=("\n" + t("info.cprm").strip()) if i.cprm else "")
+
+        # ---- 关于
+        def _load_avatar(self, filename: str, letter: str = "?"):
+            path = resource_path(os.path.join("avatars", filename))
+            pm = QPixmap(path) if os.path.isfile(path) else QPixmap()
+            size = 72
+            if pm.isNull():
+                # 没有头像文件（例如上游 PR 版本不带图片）→ 画一个字母圆形占位
+                out = QPixmap(size, size)
+                out.fill(Qt.transparent)
+                painter = QPainter(out)
+                painter.setRenderHint(QPainter.Antialiasing, True)
+                painter.setPen(Qt.NoPen)
+                painter.setBrush(QColor(90, 122, 168))
+                painter.drawEllipse(0, 0, size, size)
+                painter.setPen(QColor(255, 255, 255))
+                f = painter.font()
+                f.setPointSize(24)
+                f.setBold(True)
+                painter.setFont(f)
+                painter.drawText(out.rect(), Qt.AlignCenter, (letter or "?")[:1].upper())
+                painter.end()
+                return out
+            pm = pm.scaled(size, size, Qt.KeepAspectRatioByExpanding, Qt.SmoothTransformation)
+            out = QPixmap(size, size)
+            out.fill(Qt.transparent)
+            painter = QPainter(out)
+            painter.setRenderHint(QPainter.Antialiasing, True)
+            clip = QPainterPath()
+            clip.addEllipse(0, 0, size, size)
+            painter.setClipPath(clip)
+            painter.drawPixmap((size - pm.width()) // 2, (size - pm.height()) // 2, pm)
+            painter.end()
+            return out
+
+        def show_about(self):
+            dlg = QDialog(self)
+            dlg.setWindowTitle(t("about.title"))
+            dlg.setMinimumWidth(580)
+            v = QVBoxLayout(dlg)
+            v.addWidget(QLabel("<b>%s</b>　v%s" % (t("app.name"), APP_VERSION)))
+
+            def add_card(avatar_file, role, name, url):
+                row = QHBoxLayout()
+                pic = QLabel()
+                pm = self._load_avatar(avatar_file, name)
+                if pm is not None:
+                    pic.setPixmap(pm)
+                pic.setFixedSize(76, 76)
+                row.addWidget(pic, 0, Qt.AlignTop)
+                col = QVBoxLayout()
+                col.addWidget(QLabel("<b>%s</b>" % role))
+                col.addWidget(QLabel(name))
+                link = QLabel('<a href="%s">%s</a>' % (url, url))
+                link.setOpenExternalLinks(True)
+                link.setTextInteractionFlags(Qt.TextBrowserInteraction)
+                col.addWidget(link)
+                col.addStretch(1)
+                row.addLayout(col, 1)
+                v.addLayout(row)
+
+            add_card("spinningbanana.png", t("about.upstream"), "spinningbanana",
+                     "https://github.com/spinningbanana/dvd-rtr-vmg0-splitter")
+            add_card("NingbingHG.png", t("about.mine"), "NingbingHG",
+                     "https://github.com/NingbingHG/dvdvr-splitter")
+
+            foot = QLabel(t("about.footer"))
+            foot.setWordWrap(True)
+            v.addWidget(foot)
+            bb = QDialogButtonBox(QDialogButtonBox.Ok)
+            bb.accepted.connect(dlg.accept)
+            v.addWidget(bb)
+            dlg.exec()
 
         # ---- 交互
         def pick_dir(self):
@@ -1316,7 +1418,7 @@ def run_gui(prefill_ifo: str = "", prefill_vro: str = "") -> int:
                 self.logln(t("log.cancelling"))
 
     app = QApplication(sys.argv)
-    w = Window(prefill_ifo, prefill_vro)
+    w = Window(prefill_ifo, prefill_vro, show_about)
     w.show()
     return app.exec()
 
