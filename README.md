@@ -2,8 +2,8 @@
 
 [Visit the webpage](https://www.spinningbanana.com/other/splitter)
 
-Please check out user NingbingHG's [dvdvr-splitter](https://github.com/NingbingHG/dvdvr-splitter), it
-splits the *.VRO file on the binary level, without the need for ffmpeg and thus resulting clips will be split a lot cleaner.
+Please check out NingbingHG's [dvdvr-splitter](https://github.com/NingbingHG/dvdvr-splitter), it
+splits the *.VRO file at the binary level without the need for ffmpeg. Thus, resulting clips will be split a lot cleaner.
 
 # Overview
 
