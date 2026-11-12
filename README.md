@@ -2,7 +2,13 @@
 
 [Visit the webpage](https://www.spinningbanana.com/other/splitter)
 
+Please check out user NingbingHG's [dvdvr-splitter](https://github.com/NingbingHG/dvdvr-splitter), it
+splits the *.VRO file on the binary level, without the need for ffmpeg and thus resulting clips will be split a lot cleaner.
+
 # Overview
+
+**DISCLAIMER:** I only tested this using my Hitachi DZ-MV380A, so I cannot guarantee this will work on any other camcorders,
+as it seems like they all do things a bit differently
 
 This program splits .VRO files into their individual clips by reading the binary of .IFO files and 
 extracting useful data, then using ffmpeg to split the .VRO into .mpg files without re-encoding.
@@ -29,7 +35,7 @@ If you want to build it yourself, the command I use to build is the following:
 
 I was not able to find any documentation of this file format anywhere, so I had to reverse-engineer it.
 There is 100% a better way to split .VRO files, for instance, TMPGEnc does a much better job but is not free
-and I have no clue how it works.
+and I have no clue how it works. **2026 update: The "100% better way to split" is done in NingbingHG's version, see the link above.**
 
 However, I was able to find out a lot about .IFO files, but I was not able to figure out how to split .VROs
 directly from their binary, hence the ffmpeg cop-out.
